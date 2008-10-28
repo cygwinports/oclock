@@ -1,6 +1,6 @@
 oclock
 ------------------------------------------
-Xorg round clock
+X.Org round clock
 
 Runtime requirements:
   cygwin-1.5.20-1

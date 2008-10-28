@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXext6 libXmu6
-sdesc: "Xorg round clock"
-ldesc: "Xorg round clock"
+sdesc: "X.Org round clock"
+ldesc: "X.Org round clock"
