@@ -1,4 +1,4 @@
 category: X11
-requires: libX11_6 libXext6 libXmu6
+requires: libX11_6 libXext6 libXmu6 libXt6
 sdesc: "X.Org round clock"
 ldesc: "X.Org round clock"
