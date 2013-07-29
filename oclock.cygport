@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="oclock"
+VERSION=1.0.3
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X analog clock"
+DESCRIPTION="Oclock simply displays the current time on an analog display."
